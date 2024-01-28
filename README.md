@@ -25,5 +25,6 @@ The main function demonstrates the usage of these functions. It sets the encrypt
 5. Run the program using the command ./output.
 
 6. The program will read the unencrypted text from the file, encrypt it using the Caesar Cipher algorithm, and write the encrypted text to the specified output file.
-
-Feel free to modify the code and customize it according to your needs. This program serves as a basic implementation of the Caesar Cipher encryption and can be enhanced or integrated into other systems as required.
+```plaintext
+Feel free to modify the code and customize it according to your needs.
+This program serves as a basic implementation of the Caesar Cipher encryption and can be enhanced or integrated into other systems as required.
